@@ -42,7 +42,6 @@ else
 	$msg['restore'] = "Restore from the backup";
 	$msg['crm_title'] = "Your company. United.";
 }
-$isCrm = getenv('BITRIX_ENV_TYPE') == 'crm';
 ?>
 <html>
 <head>
